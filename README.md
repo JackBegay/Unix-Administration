@@ -1,9 +1,7 @@
 # Unix-Administration
 
 ## Objective
-[Brief Objective - Remove this afterwards]
-https://github.com/JackBegay/Detection-lab/tree/main
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The organization needs to update file permissions on certain files and directories inside the projects directory. The current permissions need to be changed to represent the level of authorization that should be given. I will be checking and changing the current permissions to futher secure their system. 
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
