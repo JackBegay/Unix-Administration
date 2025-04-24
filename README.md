@@ -4,7 +4,6 @@
 The organization needs to update file permissions on certain files and directories inside the projects directory. The current permissions need to be changed to represent the level of authorization that should be given. I will be checking and changing the current permissions to futher secure their system. I also need to add a user, put them in mulitple groups, and give them ownership to specific files.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 - Advanced understanding of user and group administration
 - Enhanced knowledge of file and directory permission management
